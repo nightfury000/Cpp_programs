@@ -10,6 +10,7 @@
 using namespace std;
 int main() {
 	int n;
+	cout << "Enter how many random numbers you want" << endl;
 	cin >> n;
 	
 	
